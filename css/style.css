@@ -157,7 +157,7 @@ h6,
 /*** Hero Header ***/
 .hero-header {
   margin-top: -75px;
-  background: url(https://media.licdn.com/dms/image/D5612AQHSc1wBhqV8PQ/article-cover_image-shrink_720_1280/0/1694808312609?e=2147483647&v=beta&t=kPhguMsfkfHzl2z9-p6vFrm2ni1N31dUmvUBEcVO9l0)
+  background: url(/img/industrybg1.jpg)
     center center no-repeat;
   background-size: cover;
   display: flex;
