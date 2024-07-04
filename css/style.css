@@ -311,6 +311,9 @@ h6,
   background: url(../img/bg-hero.png) center center no-repeat;
   background-size: cover;
 }
+.bordered-image {
+  border: 3px solid #9d9d9d;
+}
 .custom-btn {
   background-color: #dddddd; /* Button background color */
   color: rgb(25, 25, 25); /* Button text color */

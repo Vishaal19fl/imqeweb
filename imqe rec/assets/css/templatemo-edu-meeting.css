@@ -1277,7 +1277,9 @@ section.our-facts {
   padding: 140px 0 125px;
 }
 
-
+.custom-btn{
+  all: unset;
+}
 
 section.our-facts h2 {
   font-size: 38px;
